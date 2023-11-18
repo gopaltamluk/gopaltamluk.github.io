@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: URL(.../img/gopal_primary.jpg);    
+    background: URL(/img/gopal_primary.jpg);    
     background-size: cover;
     height: 100vh;
     }
